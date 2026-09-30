@@ -1,0 +1,8 @@
+#IA, caesar salad
+
+message = input("enter your message\n")
+crypting = input("would you like to (E)incrypt or (D)encrypt a message:\n")
+shift = int(input("Enter your shift amount:\n"))
+
+def encrypt( shift):
+    
