@@ -1,0 +1,3 @@
+# IA, hangman
+
+import random 
